@@ -41,16 +41,59 @@
 
 <br>  
 
-## 🚀 Installation & Setup  
+## 📷 Screenshots  
 
 <br>  
 
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/yourusername/uber-clone.git
-cd uber-clone
+🚗 **Homepage**  
+📍 **Ride Booking Page**  
+💳 **Payment Interface**  
+🗺 **Live Ride Tracking**  
 
-2️⃣ Backend Setup
-cd server
-npm install
+<br>  
 
+## 📌 API Endpoints  
+
+<br>  
+
+| Method | Endpoint | Description |
+|--------|---------|-------------|
+| POST | `/api/auth/register` | Register new users |
+| POST | `/api/auth/login` | Login users |
+| POST | `/api/rides/book` | Book a ride |
+| GET | `/api/rides/:id` | Get ride details |
+| POST | `/api/payment` | Process payment |
+
+<br>  
+
+## 🛠 Future Enhancements  
+
+<br>  
+
+| Feature | Description |
+|---------|-------------|
+| 🚀 **Mobile App (React Native)** | Extend the platform to mobile users |
+| 💬 **In-app Chat** | Messaging between Rider & Driver |
+| 🎟 **Promo Codes & Discounts** | Offer discounts on rides |
+| ⭐ **Driver Ratings & Reviews** | Allow users to rate drivers |
+
+<br>  
+
+## 🤝 Contributing  
+
+🙌 Contributions are welcome! If you're interested in collaborating, feel free to reach out!  
+
+<br>  
+
+## 📧 Contact  
+
+| Contact | Details |
+|---------|---------|
+| 📩 **Email** | [your-email@example.com] |
+| 🔗 **GitHub** | [your-github-profile](https://github.com/Nayann23) |
+
+<br>  
+
+---
+
+💡 **Built with ❤️ using MERN Stack** 🚀  
