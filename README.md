@@ -49,3 +49,8 @@
 ```bash
 git clone https://github.com/yourusername/uber-clone.git
 cd uber-clone
+
+2️⃣ Backend Setup
+cd server
+npm install
+
