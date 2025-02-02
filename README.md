@@ -70,30 +70,5 @@
 
 <br>  
 
-| Feature | Description |
-|---------|-------------|
-| 🚀 **Mobile App (React Native)** | Extend the platform to mobile users |
-| 💬 **In-app Chat** | Messaging between Rider & Driver |
-| 🎟 **Promo Codes & Discounts** | Offer discounts on rides |
-| ⭐ **Driver Ratings & Reviews** | Allow users to rate drivers |
-
-<br>  
-
-## 🤝 Contributing  
-
-🙌 Contributions are welcome! If you're interested in collaborating, feel free to reach out!  
-
-<br>  
-
-## 📧 Contact  
-
-| Contact | Details |
-|---------|---------|
-| 📩 **Email** | [your-email@example.com] |
-| 🔗 **GitHub** | [your-github-profile](https://github.com/Nayann23) |
-
-<br>  
-
----
 
 💡 **Built with ❤️ using MERN Stack** 🚀  
