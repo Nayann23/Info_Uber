@@ -1,4 +1,4 @@
-🚖 Uber Clone (MERN Stack)
+<h1>🚖 Uber Clone (MERN Stack)</h1>
 ⚠ Disclaimer:
 This project is created for educational purposes only. It is a clone project built to showcase MERN stack skills and is not affiliated with Uber in any way.
 
