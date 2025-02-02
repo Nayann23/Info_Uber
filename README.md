@@ -64,11 +64,6 @@
 | GET | `/api/rides/:id` | Get ride details |
 | POST | `/api/payment` | Process payment |
 
-<br>  
-
-## 🛠 Future Enhancements  
-
-<br>  
-
+<br> 
 
 💡 **Built with ❤️ using MERN Stack** 🚀  
