@@ -1,6 +1,10 @@
 <h1>🚖 Uber Clone (MERN Stack)</h1>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) <br>
+
 ⚠ Disclaimer:
 This project is created for educational purposes only. It is a clone project built to showcase MERN stack skills and is not affiliated with Uber in any way.
+
 
 <br>
 📌 Features
