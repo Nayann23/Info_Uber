@@ -18,7 +18,7 @@ This project is created for educational purposes only. It is a clone project bui
 📷 Screenshots
 Here's a quick glance at the project in action:
 
-<table> <tr> <td>🚗 **Homepage**</td> </tr> <tr> <td>📍 **Ride Booking Page**</td> </tr> <tr> <td>💳 **Payment Interface**</td> </tr> <tr> <td>🗺 **Live Ride Tracking**</td> </tr> </table> <br>
+<table> <tr> <td>🚗 **Homepage**</td> </tr> <tr> <td>📍 **Ride Booking Page**</td> </tr> </tr> <tr> <td>🗺 **Live Ride Tracking**</td> </tr> </table> <br>
 📌 API Endpoints
 <table> <tr> <th>Method</th> <th>Endpoint</th> <th>Description</th> </tr> <tr> <td>POST</td> <td>/api/auth/register</td> <td>Register new users</td> </tr> <tr> <td>POST</td> <td>/api/auth/login</td> <td>Login users</td> </tr> <tr> <td>POST</td> <td>/api/rides/book</td> <td>Book a ride</td> </tr> <tr> <td>GET</td> <td>/api/rides/:id</td> <td>Get ride details</td> </tr> </table> <br>
 💡 Built with ❤️ using MERN Stack 🚀
